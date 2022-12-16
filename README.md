@@ -1,3 +1,3 @@
 # Uniswap Fork
 
-Forked Uniswap on kava-chain
+Forked Uniswap and deployed it on kava-chain
