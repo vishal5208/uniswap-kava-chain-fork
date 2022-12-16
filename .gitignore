@@ -1,0 +1,18 @@
+# vscode
+.vscode
+
+# hardhat
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+typechain
+node_modules
+
+yarn-error.log
+yarn.loc
+.env
+
+gas-report.txt
